@@ -44,4 +44,9 @@ Here are some ideas to get you started:
    <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   -->
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ![Snake animation] (https://github.com/JoaoVicMoscon/JoaoVicMoscon/blob/output/github-contribution-grid-snake.svg)
